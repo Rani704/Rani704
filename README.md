@@ -10,12 +10,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rani704&label=Profile%20views&color=0e75b6&style=flat" alt="rani704" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rani704" alt="rani704" /></a> </p>
-- I am an engineering student....
+- 🔭 I am an engineering student....
 
 - 🌱 I’m currently learning **react.js**
-
+- ⚡ Fun fact **i think i am funny**
 - 📫 How to reach me **rani7042003@gmail.com**
-⚡ Fun fact- I am funny
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
