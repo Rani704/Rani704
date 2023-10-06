@@ -42,7 +42,7 @@
 
 
 
-# MY STATS( they are pathetic):
+# MY STATS:
 
 
 [![](https://raw.githubusercontent.com/Rani704/rani/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
