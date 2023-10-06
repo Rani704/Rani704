@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
 
 
 
@@ -15,6 +14,7 @@
 - 🌱 I’m currently learning **react.js**
 - ⚡ Fun fact **i think i am funny**
 - 📫 How to reach me **rani7042003@gmail.com**
+<img align="right" width="400" src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
 
 
 <h3 align="left">Connect with me:</h3>
