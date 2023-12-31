@@ -12,7 +12,7 @@
 - 🔭 I am an engineering student....
 
 - 🌱 I’m currently learning **react.js**
-- ⚡ Fun fact **i think i am funny**
+
 - 📫 How to reach me **rani7042003@gmail.com**
 
 
