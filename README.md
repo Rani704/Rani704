@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rani704&label=Profile%20views&color=0e75b6&style=flat" alt="rani704" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rani704" alt="rani704" /></a> </p>
-- 🔭 I am an engineering student....
+- 🔭 I am an engineering student...
 
 - 🌱 I’m currently learning **react.js**
 
