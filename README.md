@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rani704&show_icons=true&locale=en&layout=compact" alt="rani704" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rani704&show_icons=true&locale=en" alt="rani704" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rani704&" alt="rani704" /></p>
 # Rani
